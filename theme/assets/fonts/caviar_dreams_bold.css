@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CaviarDreamsBold';
+    src: url('caviar_dreams_bold.eot');
+    src: url('caviar_dreams_bold.eot') format('embedded-opentype'),
+         url('caviar_dreams_bold.woff') format('woff'),
+         url('caviar_dreams_bold.ttf') format('truetype'),
+         url('caviar_dreams_bold.svg#CaviarDreamsBold') format('svg');
+}
